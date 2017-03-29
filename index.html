@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>ILL_Lending</title>
+  <title>interlibrarloanlending</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="utf-8">
 
@@ -21,7 +21,7 @@
 <body>
 
   <!-- Display the map and title with HTML division tags  -->
-  <div id="map-title">ILL Lending</div>
+  <div id="map-title">Interlibraryloanlending</div>
   <div id="map"></div>
 
   <!-- Create the map content with JavaScript (.js) -->
@@ -47,27 +47,3 @@
    controlLayers.addBaseLayer(light, 'Carto Light basemap');
 
   /* Stamen colored terrain basemap tiles with labels */
-  var terrain = L.tileLayer('https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png', {
-    attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://www.openstreetmap.org/copyright">ODbL</a>.'
-  }).addTo(map); // EDIT - insert or remove ".addTo(map)" before last semicolon to display by default
-   controlLayers.addBaseLayer(terrain, 'Stamen Terrain basemap');
-
-  /* Display a blue point marker with pop-up text */
-  L.marker([42.223685, -76.183263]).addTo(map) // EDIT latitude, longitude to re-position marker
-  .bindPopup("Newark Valley"); // EDIT pop-up text message
-
-  /* Upload Latitude/Longitude markers from data.csv file, show Title in pop-up, and override initial center and zoom to fit all in map */
-   var customLayer = L.geoJson(null, {
-    onEachFeature: function(feature, layer) {
-      layer.bindPopup(feature.properties.Title);
-    }
-   });
-   var runLayer = omnivore.csv('data.csv', null, customLayer)
-   .on('ready', function() {
-    map.fitBounds(runLayer.getBounds());
-   }).addTo(map);
-   controlLayers.addOverlay(customLayer, 'Markers from data.csv');
-
-  </script>
-</body>
-</html>
