@@ -1,12 +1,12 @@
 Title,Address,Latitude,Longitude,Found Address,Match Quality,Source
-Zahnow Library-ILL / Saginaw Valley State Univ,"Saginaw Valley State Univ,7400 Bay Rd,University Ctr US-MI 48710-0001 US",43.5139154,-83.9626849,"48710, 7400 Bay Rd, University Center, MI 48604, United States",Match,Google
+Zahnow Library/ Saginaw Valley State Univ,"Saginaw Valley State Univ,7400 Bay Rd,University Ctr US-MI 48710-0001 US",43.5139154,-83.9626849,"48710, 7400 Bay Rd, University Center, MI 48604, United States",Match,Google
 Youngstown State University,"Youngstown State University MAAG LIBRARY,1 University Plaza,Youngstown US-OH 44555 US",41.1049419,-80.6465791,"1 University Plaza, Youngstown, OH 44555, USA",Match,Google
 Yale University,"130 Wall Street,New Haven, CT 06520-8240",38.613277,-91.21458,"130 WALL ST, NEW HAVEN, MO, 63068",Match,US Census
 WVU Robert C. Byrd Health Sciences Ctr,3 Evansdale Drive Morgantown WV US-WV 26506-6105 US,39.6476521,-79.9678728,"Evansdale Dr, Morgantown, WV 26505, USA",Partial Match,Google
-Worcester Public Library (WZW) / ILL,"Dept.,3 Salem Sq.,Worcester, MA 01608",42.2603989,-71.8003017,"3 Salem St, Worcester, MA 01608, USA",Partial Match,Google
-WOODSTOCK PUBLIC LIBRARY DISTRICT / ILL,"Woodstock Public Library District,5 Library LN,Woodstock US-NY 12498 US",42.040909,-74.1223224,"5 Library Ln, Woodstock, NY 12498, USA",Match,Google
-Wm. D. McIntyre Library-ILL Dept,"UNIV. OF WISCONSIN - EAU CLAIRE,105 GARFIELD AVENUE,EAU CLAIRE US-WI 54702",44.7967459,-91.5034191,"105 Garfield Ave, Eau Claire, WI 54701, USA",Match,Google
-Wilson Library - ILL / Nyack College Manhattan campus,2 Washington St. 19th Fl. New York US-NY 10004 US,40.7056387,-74.0156958,"2 Washington St, New York, NY 10004, USA",Partial Match,Google
+Worcester Public Library,"Dept.,3 Salem Sq.,Worcester, MA 01608",42.2603989,-71.8003017,"3 Salem St, Worcester, MA 01608, USA",Partial Match,Google
+WOODSTOCK PUBLIC LIBRARY DISTRICT ,"Woodstock Public Library District,5 Library LN,Woodstock US-NY 12498 US",42.040909,-74.1223224,"5 Library Ln, Woodstock, NY 12498, USA",Match,Google
+Wm. D. McIntyre Library,"UNIV. OF WISCONSIN - EAU CLAIRE,105 GARFIELD AVENUE,EAU CLAIRE US-WI 54702",44.7967459,-91.5034191,"105 Garfield Ave, Eau Claire, WI 54701, USA",Match,Google
+Wilson Library / Nyack College Manhattan campus,2 Washington St. 19th Fl. New York US-NY 10004 US,40.7056387,-74.0156958,"2 Washington St, New York, NY 10004, USA",Partial Match,Google
 William R. Coe Library / ILL,1000 E. University Ave. Laramie US-WY 82071-3334,41.31376,-105.5843787,"1000 E University Ave, Laramie, WY 82071, USA",Partial Match,Google
 WILLIAM MANZ/ST. JOHN'S UNIVERSITY LAW LIBRARY,8000 Utopia Pkwy Jamaica NY 11439,40.724247,-73.7945861,"8000 Utopia Pkwy, Jamaica, NY 11432, USA",Match,Google
 WILLIAM K SANFORD TOWN LIBRARY/ILL,"629 ALBANY SHAKER RD,Loudonve NY US-NY 12211-1196 US",42.726162,-73.7918859,"629 Albany Shaker Rd, Albany, NY 12211, USA",Partial Match,Google
@@ -327,31 +327,29 @@ Farmington Community,"Farmington Community Library,32737 W 12 Mile Rd,Farmington
 Lyndon State College,"Lyndon State College Library,1001 College Rd.,PO Box 919,Lyndonve, VT 05851",44.5355567,-72.025198,"1001 College Rd, Lyndonville, VT 05851, USA",Partial Match,Google
 Interlibrary Loan / Manhattan College Library,"Manhattan College Library,4513 Manhattan College Pkwy,Riverdale US-NY 10471 US",40.8899623,-73.9010623,"4513 Manhattan College Pkwy, Bronx, NY 10471, USA",Match,Google
 INTERLIBRARY LOAN / MALCOLM A LOVE LIBRARY / SAN DIEGO STATE UNIVERSIT,"Resource Sharing,San Diego State University,5500 Campanile Drive,San Diego US-CA 92182-8050 US",32.7757217,-117.0718893,"5500 Campanile Dr, San Diego, CA 92182, USA",Match,Google
-Interlibrary Loan / Library Services,"Library Services,Florida Gulf Coast University,10501 FGCU Blvd. South,Ft. Myers, FL 33965-6501 -",26.4643209,-81.7733903,"10501 FGCU Blvd S, Fort Myers, FL 33965, USA",Match,Google
+Florida Gulf Coast U,"Library Services,Florida Gulf Coast University,10501 FGCU Blvd. South,Ft. Myers, FL 33965-6501 -",26.4643209,-81.7733903,"10501 FGCU Blvd S, Fort Myers, FL 33965, USA",Match,Google
 Interlibrary Loan / Johnson County Library,Shawnee Mission KS 66201-1333,39.02,-94.67,"Mission, KS 66201, USA",Partial Match,Google
 Interlibrary Loan / Holy Family University Library,"Holy Family University Library,9801 Frankford Avenue,Philadelphia US-PA 19114-2009 US",40.0609234,-74.9873319,"9801 Frankford Ave, Philadelphia, PA 19114, USA",Match,Google
 Interlibrary Loan / CLARK LIBRARY,"UNIVERSITY OF PORTLAND,5000 N WAMETTE BLVD,PORTLAND US-OR 97203-0017 US",45.5732046,-122.7275712,"5000 N Willamette Blvd, Portland, OR 97203, USA",Partial Match,Google
 Interlibrary Loan / Bethlehem Public Library,"Bethlehem Public Library,451 Delaware Ave.,Delmar US-NY 12054-3042 US",42.6196879,-73.841225,"451 Delaware Ave, Delmar, NY 12054, USA",Match,Google
-Bethlehem Public Library,"451 Delaware Ave.,Delmar US-NY 12054-3042 US",42.6196783,-73.8411536,"451 Delaware Ave, Delmar, NY 12054, USA",Partial Match,Google
-INTERLIBRARY LOAN / LIBRARY - #145,"800 WEST UNIVERSITY PARKWAY , OREM, UT 84058-5999",40.2773503,-111.7129554,"800 W University Pkwy, Orem, UT 84097, USA",Partial Match,Google
-Interlibrary Loan (MRV-127),"Hudson Valley Community College,80 Vandenburgh Avenue,Troy US-NY 12180 US",42.6967457,-73.6854979,"80 Vandenburgh Ave, Troy, NY 12180, USA",Match,Google
+Utah Valley University,"800 WEST UNIVERSITY PARKWAY , OREM, UT 84058-5999",40.2773503,-111.7129554,"800 W University Pkwy, Orem, UT 84097, USA",Partial Match,Google
+Hudson Valley Community College,"Hudson Valley Community College,80 Vandenburgh Avenue,Troy US-NY 12180 US",42.6967457,-73.6854979,"80 Vandenburgh Ave, Troy, NY 12180, USA",Match,Google
 Interlibrary Loan - VCFALibrary,"36 College Street,Montpelier US-VT 05602 US",44.2551914,-72.5676054,"36 College St, Montpelier, VT 05602, USA",Match,Google
 INTERLIBRARY LOAN Saratoga Springs Public Library,"Saratoga Springs Public Library,49 Henry Street,Saratoga Springs US-NY 12866 US",43.0809343,-73.78327,"49 Henry St, Saratoga Springs, NY 12866, USA",Match,Google
 Interlibrary Loan - Pratt Institute Library,"Pratt Institute Library-Brooklyn Campus,379 DeKalb Avenue,Brooklyn US-NY 11205 US",40.6908148,-73.9649417,"200 Willoughby Ave, Brooklyn, NY 11205, USA",Match,Google
-Pratt,"144 West 14th St., Room #410,New York US-NY 10011-7301 US",40.7380726,-73.9989803,"144 W 14th St #410, New York, NY 10011, USA",Partial Match,Google
 Interlibrary Loan - Mason Library (KNM)/Keene State College,"Mason Library, ,229 Main Street,Keene US-NH 03435-3201 US",42.9264742,-72.2790318,"229 Main St, Keene, NH 03431, USA",Partial Match,Google
 Interlibrary Loan - Lovejoy Library,"Dept.,Southern inois Univ. Edwardsve 30 Hairpin Dr.,Edwardsve US-IL 62026-1063 US",38.7930978,-89.9979453,"1 Hairpin Dr, Edwardsville, IL 62025, USA",Partial Match,Google
-INTERLIBRARY LOAN - DECKER LIBRARY,"MARYLAND INSTITUTE COLLEGE OF ART,1300 WEST MOUNT ROYAL AVE,BALTIMORE US-MD 21217-4191 US",39.307555,-76.6216339,"1300 W Mt Royal Ave, Baltimore, MD 21217, USA",Match,Google
-INTERLIBRARY LOAN,"ALVERNIA UNIVERSITY LIBRARY , 400 ST. BERNARDINE ST. , READING, PA 19607-1799",40.3112017,-75.931668,"400 Saint Bernardine St, Reading, PA 19607, USA",Match,Google
-INTERLIBRARY LOAN,"CLEVELAND STATE UNIVERSITY,1860 EAST 22nd STREET,CLEVELAND US-OH 44115-2214 US",41.5024973,-81.6747185,"2121 Euclid Ave, Cleveland, OH 44115, USA",Match,Google
-Concord,"CONCORD PUBLIC LIBRARY,45 GREEN STREET,CONCORD US-NH 03301 US",43.2066825,-71.5403811,"45 Green St, Concord, NH 03301, USA",Match,Google
+INTERLIBRARY LOAN - DECKER LIBRARY Maryland art institute,"MARYLAND INSTITUTE COLLEGE OF ART,1300 WEST MOUNT ROYAL AVE,BALTIMORE US-MD 21217-4191 US",39.307555,-76.6216339,"1300 W Mt Royal Ave, Baltimore, MD 21217, USA",Match,Google
+INTERLIBRARY LOAN Alvernia University,"ALVERNIA UNIVERSITY LIBRARY , 400 ST. BERNARDINE ST. , READING, PA 19607-1799",40.3112017,-75.931668,"400 Saint Bernardine St, Reading, PA 19607, USA",Match,Google
+INTERLIBRARY LOAN Cleaveland State University,"CLEVELAND STATE UNIVERSITY,1860 EAST 22nd STREET,CLEVELAND US-OH 44115-2214 US",41.5024973,-81.6747185,"2121 Euclid Ave, Cleveland, OH 44115, USA",Match,Google
+Concord Public Library,"CONCORD PUBLIC LIBRARY,45 GREEN STREET,CONCORD US-NH 03301 US",43.2066825,-71.5403811,"45 Green St, Concord, NH 03301, USA",Match,Google
 Murray State,"203 WATERFIELD, MURRAY US-KY 42071 US",36.6002299,-88.150702,"203 Waterfield Dr, Murray, KY 42071, USA",Partial Match,Google
 Vanderbilt,"VANDE BOGART LIBRARY,MONTANA STATE UNIV-NORTHERN,PO BOX 7751,HAVRE MT 59501",48.5414604,-109.6877758,"300 13th St W, Havre, MT 59501, USA",Match,Google
-Tualatin,"TUALATIN PUBLIC LIBRARY,18878 SW MARTINAZZI AVE,TUALATIN US-OR 97062 US",45.3843097,-122.7583852,"18878 SW Martinazzi Ave, Tualatin, OR 97062, USA",Match,Google
-Central,"CENTRAL LIBRARY, J-MRL,201 EAST MARKET STREET,CHARLOTTESVE,VA. 22902-5287",38.031419,-78.479933,"201 E Market St, Charlottesville, VA 22902, USA",Partial Match,Google
+Tualatin Public Library,"TUALATIN PUBLIC LIBRARY,18878 SW MARTINAZZI AVE,TUALATIN US-OR 97062 US",45.3843097,-122.7583852,"18878 SW Martinazzi Ave, Tualatin, OR 97062, USA",Match,Google
+Central Library,"CENTRAL LIBRARY, J-MRL,201 EAST MARKET STREET,CHARLOTTESVE,VA. 22902-5287",38.031419,-78.479933,"201 E Market St, Charlottesville, VA 22902, USA",Partial Match,Google
 Nevada State,"NEVADA STATE LIBRARY AND ARCHIVES,100 N. STEWART STREET,CARSON CITY, NV 89701-4285",39.1638936,-119.7648587,"100 N Stewart St, Carson City, NV 89701, USA",Match,Google
 South Central Regional Library Council,"INTERLIBRARY LOAN,SOUTH CENTRAL REGIONAL LIBRARY COUNCIL,215 NORTH CAYUGA STREET,ITHACA NY 14850,ITHACA NY US 14850",42.439973,-76.499239,"108 N Cayuga St, Clinton Hall, 3rd Floor, Ithaca, NY 14850, United States",Match,Google
-Kanawha,"KANAWHA COUNTY PUBLIC LIBRARY,123 CAPITOL ST,CHARLESTON WV 25301",38.3500517,-81.6356382,"123 Capitol St, Charleston, WV 25301, USA",Match,Google
+Kanawha Public Library,"KANAWHA COUNTY PUBLIC LIBRARY,123 CAPITOL ST,CHARLESTON WV 25301",38.3500517,-81.6356382,"123 Capitol St, Charleston, WV 25301, USA",Match,Google
 Daniel Boone,"100 W. Broadway,Columbia MO US 65203",38.9511584,-92.3398143,"100 W Broadway, Columbia, MO 65203, USA",Match,Google
 Nazareth College,"Nazareth College - Library,4245 East Avenue,Rochester US-NY 14618-0950 US",43.1030175,-77.520027,"4245 East Ave, Rochester, NY 14618, USA",Match,Google
 Cazenovia College,"22 Sullivan St,Cazenovia US-NY 13035 US",42.9320508,-75.8548808,"22 Sullivan St, Cazenovia, NY 13035, USA",Match,Google
@@ -440,7 +438,7 @@ ILL/JAMES M. MILNE LIBRARY/SUNY ONEONTA,"108 RAVINE PARKWAY,SUNY ONEONTA,ONEONTA
 ILL/Hillman Library/University of Pittsburgh,3960 Forbes Ave Pittsburgh PA 15260 US,40.4428889,-79.954634,"3960 Forbes Ave, Pittsburgh, PA 15260, USA",Match,Google
 ILL/HIGH LIBRARY/ELIZABETHTOWN COLLEGE,"Elizabethtown College,One Alpha Drive,Elizabethtown US-PA 17022-2227 US",40.1503251,-76.589792,"1 Alpha Dr, Elizabethtown, PA 17022, USA",Partial Match,Google
 ILL/Hermann Memorial Library-S.C.C.C,"Hermann Memorial Library, S.C.C.C., 112 College Rd., Loch Sheldrake, NY 12759",41.763897,-74.668862,"112 College Rd, Loch Sheldrake, NY 12759, USA",Match,Google
-ILL/Health Education Library,"Health Education Library,New York Hospital of Queens, 56-45 Main Street, Flushing, NY 11355-5095,US",40.7470438,-73.8256717,"56-45 Main St, Flushing, NY 11355, USA",Match,Google
+ILL/Health Education Library NY Hospital of Queens,"Health Education Library,New York Hospital of Queens, 56-45 Main Street, Flushing, NY 11355-5095,US",40.7470438,-73.8256717,"56-45 Main St, Flushing, NY 11355, USA",Match,Google
 ILL/HEALEY LIBRARY/UNIVERSITY OF MASS. - BOSTON,"100 Morrissey Blvd,Boston US-MA 02125-3393 US",42.3158163,-71.0480039,"100 William T Morrissey Blvd, Boston, MA 02125, USA",Partial Match,Google
 ILL/Gumberg Library/DUQUESNE UNIVERSITY,"Duquesne Univ. Gumberg Library IDS #124,600 Forbes Ave.,Pittsburgh US-PA 15282 US",40.437349,-79.991503,"Duquesne University, 600 Forbes Ave, Pittsburgh, PA 15219, USA",Match,Google
 ILL/Greenwich Library,"Greenwich Library,101 W Putnam Ave,Greenwich US-CT 06830 US",41.028905,-73.629477,"101 West Putnam Avenue, Greenwich, CT 06830, USA",Match,Google
@@ -467,8 +465,8 @@ ILL/ PORTLAND PUBLIC LIBRARY,"Portland Public Library,5 Monument Square,Portland
 ILL/ LLOYD SEALY LIBRARY / JOHN JAY COLLEGE,"524 West 59th St.,New York US-NY 10019 US",40.7707237,-73.9892342,"524 W 59th St, New York, NY 10019, USA",Match,Google
 ILL/ Fordham University Law Library,"Fordham Law School, The Maloney Library,150 West 62nd Street,New York US-NY 10023 US",40.7715478,-73.9849293,"150 W 62nd St, New York, NY 10023, USA",Match,Google
 ILL/ East Greenbush Community Library,"East Greenbush Community Library,10 Community Way,East Greenbush US-NY 12061 US",42.619124,-73.695531,"10 Community Way, East Greenbush, NY 12061, USA",Match,Google
-ILL.,"St. Joseph's College Library,Attn:Robert Lasner, 222 Clinton Ave.,Brooklyn,NY 11205",40.6913413,-73.9687205,"222 Clinton Ave, Brooklyn, NY 11205, USA",Match,Google
-"ILL,Reference Librarian","Middlesex Community College,Springs Rd.,Bedford, MA 01730,US",42.5246,-71.273739,"591 Springs Rd, Bedford, MA 01730, USA",Match,Google
+St. Joseph's College Library,"St. Joseph's College Library,Attn:Robert Lasner, 222 Clinton Ave.,Brooklyn,NY 11205",40.6913413,-73.9687205,"222 Clinton Ave, Brooklyn, NY 11205, USA",Match,Google
+Middlesex Community College,"Middlesex Community College,Springs Rd.,Bedford, MA 01730,US",42.5246,-71.273739,"591 Springs Rd, Bedford, MA 01730, USA",Match,Google
 "ILL, West Texas A&M University","Cornette Library,WTAMU Box 60748 , 2403 Russell Long Blvd,Canyon US-TX 79016 US",34.982687,-101.914288,"26th St, Canyon, TX 79016, USA",Match,Google
 "ILL, NMSU, ZUHL LIBRARY",", NMSU, ZUHL LIBRARY,1305 Frenger Mall MSC 3475,Las Cruces, NM 88003,, NMSU, ZUHL LIBRARY,1305 Frenger Mall",32.281567,-106.749601,"2911 McFie Cir, Las Cruces, NM 88003, USA",Match,Google
 ILL Wiener Rogers Law Library,"4505 Maryland Parkway,Las Vegas US-NV 89154-1080 US",36.1053148,-115.1388739,"4505 S Maryland Pkwy, Las Vegas, NV 89154, USA",Partial Match,Google
@@ -478,7 +476,7 @@ ILL- W. Frank Steely Library,"Highland Heights, KY, 41099-6101 US",39.0350911,-8
 ILL- Vi Tasler Learning Resource Center,"City University of Seattle,521 Wall Street, Ste. 100,Seattle US-WA 98121 US",47.6178002,-122.3444475,"521 Wall St, Seattle, WA 98121, USA",Match,Google
 ILL UNI Rod Library,"1227 W 27th Street,Cedar Falls US-IA 50613-3675 US",42.513117,-92.4656488,"1227 W 27th St, Cedar Falls, IA 50614, USA",Partial Match,Google
 ILL U of Montevallo Library,75 College Dr. Montevallo AL 35115 US,33.1073601,-86.8652916,"75 College Dr, Montevallo, AL 35115, USA",Match,Google
-ILL Services,"Attorney General's Library,25 Market St.,P.O. Box 115,Trenton, NJ 08625-0115",40.213594,-74.76396,"25 Market St, Trenton, NJ 08611, USA",Partial Match,Google
+Attorney General's Library,"Attorney General's Library,25 Market St.,P.O. Box 115,Trenton, NJ 08625-0115",40.213594,-74.76396,"25 Market St, Trenton, NJ 08611, USA",Partial Match,Google
 ILL Section/Atlantic County Library,"40 Farragut Ave,Mays Landing US-NJ 08330-1750 US",39.4509842,-74.7254059,"40 Farragut Ave, Mays Landing, NJ 08330, USA",Partial Match,Google
 ILL REED COLLEGE LIBRARY,"3203 SE Woodstock Blvd,Portland US-OR 97202 US",45.4809642,-122.6301455,"3203 SE Woodstock Blvd, Portland, OR 97202, USA",Match,Google
 ILL POLLACK LIBRARY / YESHIVA UNIVERSITY,"INTERLIBRARY LOAN,YESHIVA UNIVERSITY,500 WEST 185TH STREET,NEW YORK US-NY 10033 US",40.8504852,-73.9291068,"500 W 186th St, New York, NY 10033, USA",Match,Google
@@ -490,16 +488,16 @@ ILL Moon Library / ILL / SUNY Environ. Sci. & For.,"SUNY College of Environmenta
 ILL LIBRARY/SUNY INST TECHNOLOGY,"SUNY Poly,100 Seymour Road,Utica US-NY 13502 US",43.1355755,-75.2298915,"Kunsela Hall, 100 Seymour Ave, Utica, NY 13502, USA",Match,Google
 ILL LIBRARY THE COLLEGE OF SAINT ROSE,"432 WESTERN AVE,Albany US-NY 12203-1490",42.6641331,-73.7854398,"432 Western Ave, Albany, NY 12203, USA",Partial Match,Google
 ILL Library Media Center Bellevue Community College,"Bellevue College,3000 Landerholm Circle SE,Bellevue US-WA 98007 US",47.5855425,-122.1484161,"3000 Landerholm Cir SE, Bellevue, WA 98007, USA",Match,Google
-ILL LIBRARY,"061 LIB,1 CAMPUS DR,ALLENDALE US-MI 49401-9403 US",42.9638005,-85.8883162,"Cook-Dewitt Center, 1 Campus Dr, Allendale, MI 49401, USA",Partial Match,Google
-ILL Johnnie Mae Berry Library,"Cincinnati State Technical and Community College,3520 Central Parkway,Cincinnati US-OH 45223 US",39.1495698,-84.5365601,"3520 Central Pkwy, Cincinnati, OH 45223, USA",Match,Google
-ILL Fleming Library,"Grand Canyon University,3300 W. Camelback Rd.,Phoenix US-AZ 85017-3030 US",33.5105204,-112.1299582,"3300 W Camelback Rd, Phoenix, AZ 85017, USA",Match,Google
+Grand Valley State University,"061 LIB,1 CAMPUS DR,ALLENDALE US-MI 49401-9403 US",42.9638005,-85.8883162,"Cook-Dewitt Center, 1 Campus Dr, Allendale, MI 49401, USA",Partial Match,Google
+Cincinatti State Tech and Community College,"Cincinnati State Technical and Community College,3520 Central Parkway,Cincinnati US-OH 45223 US",39.1495698,-84.5365601,"3520 Central Pkwy, Cincinnati, OH 45223, USA",Match,Google
+Grand Canyon University,"Grand Canyon University,3300 W. Camelback Rd.,Phoenix US-AZ 85017-3030 US",33.5105204,-112.1299582,"3300 W Camelback Rd, Phoenix, AZ 85017, USA",Match,Google
 ILL Dickerman Library / Wadsworth Center,"Empire State Plaza, Albany ,NY 12201-0509",42.650122,-73.759868,"Madison Ave & Swan Street, Albany, NY 12242, USA",Partial Match,Google
-ILL Dept/WESTFIELD PUBLIC LIBRARY/Casey Confoy,"Ridgefield Free Public Library,527 Morse Ave,Ridgefield, NJ 07657 US-NJ 07657",40.832213,-74.0053251,"527 Morse Ave, Ridgefield, NJ 07657, USA",Match,Google
+Ridgefield Public Library,"Ridgefield Free Public Library,527 Morse Ave,Ridgefield, NJ 07657 US-NJ 07657",40.832213,-74.0053251,"527 Morse Ave, Ridgefield, NJ 07657, USA",Match,Google
 ILL Dept/WESTFIELD PUBLIC LIBRARY,"Margaret E. Heggan Library,606 Delsea Drive,Sewell US-NJ 08080",39.74707,-75.1125793,"606 Delsea Dr, Sewell, NJ 08080, USA",Match,Google
 ILL Dept/Richter Library,"University of Miami,1300 Memorial Dr., P.O. Box 248214,Coral Gables US-FL 33124-0320 US",25.721262,-80.27865,"1300 Memorial Dr, Miami, FL 33146, USA",Partial Match,Google
-ILL DEPT/LIBRARY,"Ithaca College Library,953 Danby Road,Ithaca US-NY 14850 US",42.421658,-76.498564,"953 Danby Rd, Ithaca, NY 14850, USA",Match,Google
+Ithaca College,"Ithaca College Library,953 Danby Road,Ithaca US-NY 14850 US",42.421658,-76.498564,"953 Danby Rd, Ithaca, NY 14850, USA",Match,Google
 ILL DEPT/HSC LIBRARY/ILL Dept./HSC L3-136,100 Nicolls Road Stony Brook US-NY 11794-3339 US,40.9154724,-73.1227212,"100 Nicolls Rd, Stony Brook, NY 11790, USA",Partial Match,Google
-ILL Dept/,45 Reinhardt Road Wayne US-NJ 07470,40.9308176,-74.2021876,"45 Reinhardt Rd, Wayne, NJ 07470, USA",Match,Google
+William Patterson University,45 Reinhardt Road Wayne US-NJ 07470,40.9308176,-74.2021876,"45 Reinhardt Rd, Wayne, NJ 07470, USA",Match,Google
 "ILL Dept./Wisser Memorial Library, New York Institute of Technology","New York Institute of Technology,Northern Blvd,Old Westbury US-NY 11568-8000 US",40.8114197,-73.605301,"Northern Blvd, Old Westbury, NY 11568, USA",Match,Google
 "ILL Dept. LR&TSST. CLOUD STATE UNIVERSITY720-4TH AVE. S.ST. CLOUD, MN","St. Cloud State University Library,720 4th Ave. S,St Cloud US-MN 56301-4498 US",45.5511863,-94.1515138,"720 4th Ave S, St Cloud, MN 56301, USA",Match,Google
 ILL Dept. / Bertrand Library / Bucknell Univ.,"Bertrand Library , Coleman Hall Road, Bucknell Univ. , Lewisburg, PA 17837 , U.S.A.",40.9543429,-76.8826275,"701 Moore Ave, Lewisburg, PA 17837, USA",Match,Google
@@ -517,7 +515,7 @@ ILL Dept Stevenson Library / Lock Haven University,"Stevenson Library - ,401 N. 
 ILL DEPT REQUEST #11948,"STOW-MUNROE FALLS PUBLIC LIBRARY,3512 DARROW ROAD,STOW US-OH 44224-4097 US",41.1608261,-81.440856,"3512 Darrow Rd, Stow, OH 44224, USA",Match,Google
 ILL DEPT / BURLINGTON COUNTY LIBRARY,"5 Pioneer Blvd,Westampton US-NJ 08060 US",40.0146573,-74.8206963,"5 Pioneer Blvd, Westampton, NJ 08060, USA",Match,Google
 ILL Department / Anne Arundel County Public Library,"Anne Arundel County Public Library,1410 West St.,Annapolis US-MD 21401 US",38.9787951,-76.5151899,"1410 West St, Annapolis, MD 21401, USA",Match,Google
-Bucks County,"Bucks County Free Library,150 South Pine Street,Doylestown US-PA 18901 US",40.307998,-75.125814,"150 S Pine St, Doylestown, PA 18901, USA",Match,Google
+Bucks County Public,"Bucks County Free Library,150 South Pine Street,Doylestown US-PA 18901 US",40.307998,-75.125814,"150 S Pine St, Doylestown, PA 18901, USA",Match,Google
 ILL College of Mount Saint Vincent / Elizabeth Seton Library,"College of Mount Saint Vincent,6301 Riverdale Avenue,Bronx US-NY 10471 US",40.9124186,-73.9030113,"6301 Riverdale Ave, Bronx, NY 10471, USA",Match,Google
 ILL- Cohen Library NAC 2-311 / City College of NY,160 Convent Ave. New York US-NY 10031 US,40.8217036,-73.9478749,"160 Convent Ave, New York, NY 10031, USA",Match,Google
 ILL BRIGGS LIBRARY,"1300 NORTH CAMPUS DR , BROOKINGS US-SD 57007-1098 US",44.3211674,-96.7842759,"1300 N Campus Dr, Brookings, SD 57006, USA",Partial Match,Google
@@ -545,7 +543,7 @@ ILL / Campbell County Public Library,"Campbell County Public Library,901 E. Sixt
 ILL / Babson Library / Springfield College,"Springfield College,263 Alden Street,Springfield US-MA 01109 US",42.1022292,-72.5565631,"263 Alden Street, Springfield, MA 01109, United States",Match,Google
 ILL / ACCESS SERVICES DEPARTMENT / KNIGHT LIBRARY,"Knight Library, ,1501 Kincaid St.,Eugene US-OR 97403-1299 US",44.04332,-123.07773,"1501 Kincaid St, Eugene, OR 97403, USA",Match,Google
 ILL / LINCOLN LAND COMMUNITY COLLEGE / ILDS: RPLS # 3,"5250 Shepherd Road,Springfield IL US 62794-9256",39.7229394,-89.6159231,"5250 Shepherd Rd, Springfield, IL 62703, USA",Partial Match,Google
-ILL / Lemieux Library,"SEATTLE UNIVERSITY LIBRARY,901 12TH AVE,SEATTLE US-WA 98122-1090 US",47.6092282,-122.3177135,"901 12th Ave, Seattle, WA 98122, USA",Match,Google
+ILL / Lemieux Library Seattle University,"SEATTLE UNIVERSITY LIBRARY,901 12TH AVE,SEATTLE US-WA 98122-1090 US",47.6092282,-122.3177135,"901 12th Ave, Seattle, WA 98122, USA",Match,Google
 ILL - WILSON LIBRARY / WESTERN WASHINGTON UNIVERSITY,"WESTERN WASHINGTON UNIVERSITY,516 HIGH ST.,BELLINGHAM WA 98225-9103",48.7335079,-122.4873017,"516 High Street, Bellingham, WA 98225, USA",Match,Google
 ILL - UNIVERSITY OF ST. THOMAS LIBRARIES,"Univ of St Thomas, O'Shaughnessy-Frey Library,2115 Summit Av,St Paul US-MN 55105-1096 US",44.9441221,-93.1897139,"2115 Summit Ave, St Paul, MN 55105, USA",Partial Match,Google
 ILL - Univ. of Missouri-St. Louis,"Thomas Jefferson Library - ,One University Boulevard,St. Louis US-MO 63121-4499 US",38.7101379,-90.3111075,"1 University Boulevard, St. Louis, MO 63121, USA",Partial Match,Google
@@ -766,7 +764,7 @@ Antioch University Library,"Antioch University,40 Avon St,Keene US-NH 03431-3516
 AMERICAN MUSEUM OF NATURAL HISTORY/LIBRARY-ILL,"American Museum of Natural History,Central Park West @ 79th St,New York US-NY 10024-5192 US",40.7820454,-73.9717106,"79th St Transverse & W 81st St, New York, NY 10024, USA",Partial Match,Google
 ALDRICH PUBLIC LIBRARY ILL,"235 COLLEGE STREET,BURLINGTON US-VT 05401 US",44.477196,-73.210304,"235 COLLEGE ST, BURLINGTON, VT, 05401",Match,US Census
 "Albertus Magnus College Library, ILL Dept.","700 Prospect St.,New Haven US-CT 06511 US",41.331516,-72.921135,"700 PROSPECT ST, NEW HAVEN, CT, 06511",Match,US Census
-850-LTR ATTN:AKC VIA TAE,"201 Donaghey Ave. ,Conway US-AR 72035 US",35.078377,-92.45423,"201 DONAGHEY AVE, CONWAY, AR, 72035",Match,US Census
+University Central Arkansas,"201 Donaghey Ave. ,Conway US-AR 72035 US",35.078377,-92.45423,"201 DONAGHEY AVE, CONWAY, AR, 72035",Match,US Census
 Quinnipiac University/Arnold Bernhard Library--ILL,"275 Mt. Carmel Avenue, HamdenCT 06518",41.421494,-72.895065,"275 MOUNT CARMEL AVE, HAMDEN, CT, 06518",Match,US Census
 ILL/Rensselaer Polytechnic Institute/Folsom Library,"110 8th Street,Troy US-NY 12180-3590 US",42.73287,-73.68358,"110 8TH ST, TROY, NY, 12180",Match,US Census
 East Meadow Publ.Library / ILL,"1886 Front Street,East Meadow US-NY 11554-1700 US",40.720062,-73.56385,"1886 FRONT ST, EAST MEADOW, NY, 11554",Match,US Census
